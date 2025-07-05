@@ -1,0 +1,3 @@
+*.sqlite*
+seeders/PaymentGatewayDataTableSeeder.php
+database/seeders/PaymentGatewayDataTableSeeder.php
