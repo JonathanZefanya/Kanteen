@@ -2,3 +2,4 @@
 public/js/app.js
 /public/js/app.js
 file/service-account-file.json
+firebase-messaging-sw.js
