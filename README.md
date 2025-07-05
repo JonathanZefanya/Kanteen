@@ -1,5 +1,7 @@
 # Kanteen 🍽️
-
+<p align="center">
+    <img src="public/images/theme/theme-logo.png" alt="Kanteen Logo" width="180">
+</p>
 Memperkenalkan **Kanteen**– sistem pemesanan meja nirkontak dan pembuat Menu QR. Pelanggan cukup memindai kode QR, melihat menu, melakukan pemesanan, dan menikmati hidangan. Sebuah pengalaman bersantap yang aman dan lancar.
 
 -----
